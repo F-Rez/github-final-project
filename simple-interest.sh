@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <F-Rez>
+   # F-Rez
 
    # Input:
    # p, principal amount
